@@ -62,7 +62,7 @@
 
         <section style="height: 100vh; background-color: #138496;" class="d-flex justify-content-center align-items-center">
             <section style="width: 20rem;">
-                <h1 class="bg-warning rounded-top px-2 mb-0 py-3 h5">Bit Blog Register</h1>
+                <h1 class="bg-warning rounded-top px-2 mb-0 py-3 h5">My Blog Register</h1>
                 <section class="bg-light my-0 px-2">
                     <small class="text-danger"><?php if ($error !== '') echo $error; ?></small>
             </section>
